@@ -1,76 +1,20 @@
 [
 	{
 		"important":false,
-		"epoch":1470716449,
-		"body":"Just a couple of URLs for testing deep links.",
-		"head":"Deep Link Tests",
-		"id":"4",
+		"epoch":1476798297,
+		"body":"Finally we've arrived at version 1.0 of the app! Thank you to everyone that helped me test or improve the app in any way.\n\nThis app is open source! If you're interested in helping, please fork the code and do as you please! I'd really appreciate it!",
+		"head":"That Li'l Hummingbird v1.0!",
+		"id":"10",
 		"links":
 		[
 			{
-				"title":"Anime / RWBY II",
-				"url":"https://hummingbird.me/anime/rwby-ii"
+				"title":"GitHub / That Lil Hummingbird",
+				"url":"https://github.com/charlesmadere/that-lil-hummingbird"
 			},
-			{
-				"title":"Anime / RWBY II / Quotes",
-				"url":"https://hummingbird.me/anime/rwby-ii/quotes"
-			},
-			{
-				"title":"Anime / RWBY II / Reviews",
-				"url":"https://hummingbird.me/anime/rwby-ii/reviews"
-			},
-			{
-				"title":"Anime / RWBY II / Reviews / 10090",
-				"url":"https://hummingbird.me/anime/rwby-ii/reviews/10090"
-			},
-			{
-				"title":"Groups / SOS Brigade",
-				"url":"https://hummingbird.me/groups/sos-brigade"
-			},
-			{
-				"title":"Groups / SOS Brigade / Members",
-				"url":"https://hummingbird.me/groups/sos-brigade/members"
-			},
-			{
-				"title":"Manga / RWBY",
-				"url":"https://hummingbird.me/manga/rwby"
-			},
-			{
-				"title":"Notifications",
-				"url":"https://hummingbird.me/notifications"
-			},
-			{
-				"title":"Stories / 8032021",
-				"url":"https://hummingbird.me/stories/8032021"
-			},
-			{
-				"title":"Users / ThatLilChestnut",
-				"url":"https://hummingbird.me/users/ThatLilChestnut"
-			},
-			{
-				"title":"Users / ThatLilChestnut / Followers",
-				"url":"https://hummingbird.me/users/ThatLilChestnut/followers"
-			},
-			{
-				"title":"Users / ThatLilChestnut / Following",
-				"url":"https://hummingbird.me/users/ThatLilChestnut/following"
-			},
-			{
-				"title":"Users / ThatLilChestnut / Groups",
-				"url":"https://hummingbird.me/users/ThatLilChestnut/groups"
-			},
-			{
-				"title":"Users / ThatLilChestnut / Library",
-				"url":"https://hummingbird.me/users/ThatLilChestnut/library"
-			},
-			{
-				"title":"Users / ThatLilChestnut / Library / Manga",
-				"url":"https://hummingbird.me/users/ThatLilChestnut/library/manga"
-			},
-			{
-				"title":"Users / ThatLilChestnut / Reviews",
-				"url":"https://hummingbird.me/users/ThatLilChestnut/reviews"
-			}
+            {
+                "title":"Hummingbird / ThatLilChestnut",
+                "url":"https://hummingbird.me/users/ThatLilChestnut"
+            }
 		]
 	}
 ]
